@@ -24,3 +24,14 @@ As I complete tasks/assignments I will add them to the repo as well as any sort 
 - This was a basic windows challenge where the goal was to understand the differences between .ELF and .EXE files. The use of decompilers was allowed for this challenge.
 - You can see my notes in PDF I upload corresponding to this assignment.
 - I have done previous work on windows executables so I was familar with what the challenge wanted to teach.
+
+## Assignment 5 ("final" software challenge)
+- This was a more advanced windows challenge that involved an encrypted password.
+- This acted as the final challenge for the class.
+- I upload some code that pertained to this challenge specifically.
+
+## Assignment 6 (advanced software challenge)
+- This was a similar executable to that of Assignment 5. The main difference was the password was generated more dynamically.
+- This challenge had some code that went along with it. (run.py & password_cracker.c)
+- This challenge was given to me after the class for me to do on my own time.
+- The write up is much shorter since I was focusing on the dynamic password generation and trying to not rehash the executable information from assignment 5.
